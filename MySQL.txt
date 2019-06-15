@@ -1,4 +1,4 @@
-#µ¼³öÊý¾Ý¿â¼°Êý¾Ý
+#导出数据库
 mysqldump -u root -p zhb_vue >d:\zhb_vue.sql  
 
 #导入数据库，其中已新建数据库zhb_vue，将zhb_vue.sql中的表结构和数据导入到zhb_vue这个数据库中
