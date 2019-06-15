@@ -1,0 +1,2 @@
+#导出数据库及数据
+mysqldump -u root -p zhb_vue >d:\zhb_vue.sql  
