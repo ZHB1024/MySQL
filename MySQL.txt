@@ -1,2 +1,5 @@
-#导出数据库及数据
+#碌录鲁枚脢媒戮脻驴芒录掳脢媒戮脻
 mysqldump -u root -p zhb_vue >d:\zhb_vue.sql  
+
+#瀵煎叆鏁版嵁搴擄紝鍏朵腑宸叉柊寤烘暟鎹簱zhb_vue锛屽皢zhb_vue.sql涓殑琛ㄧ粨鏋勫拰鏁版嵁瀵煎叆鍒皕hb_vue杩欎釜鏁版嵁搴撲腑
+mysql -u root -p zhb_vue <D:\zhb_vue.sql 
